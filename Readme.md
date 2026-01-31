@@ -1,6 +1,6 @@
-# Maple Goodboi
+# Maple is a Good boi (≧▽≦*)
 
-This repository contains my build of the Maple Goodboi project — custom firmware, electronics, and modifications for the robot.
+This repository contains my build of the Maple project — custom firmware, electronics, and modifications for the robot.
 
 ## Credits
 
