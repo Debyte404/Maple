@@ -1,4 +1,4 @@
-# Maple is a Good boi (≧▽≦)
+# Maple is a Good boi (*≧▽≦*)
 
 This repository contains my build of the Maple project — custom firmware, electronics, and modifications for the robot.
 
